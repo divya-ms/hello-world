@@ -1,2 +1,5 @@
 # hello-world
-my first repository ever
+
+Hi Humans!
+
+This is my first repository ever and I'm super excited. 
